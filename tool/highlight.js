@@ -133,6 +133,11 @@ export function allModes() {
       name: "solidity",
       factory: require("../vendor/highlightjs-solidity").definer,
       community: true
+    },
+    {
+      name: "gdscript",
+      factory: require("../vendor/highlightjs-gdscript").definer,
+      community: true
     }
   ];
 

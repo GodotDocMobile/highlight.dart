@@ -13,3 +13,6 @@
 [submodule "vendor/highlightjs-solidity"]
 	path = vendor/highlightjs-solidity
 	url = https://github.com/highlightjs/highlightjs-solidity.git
+[submodule "vendor/highlightjs-gdscript"]
+	path = vendor/highlightjs-gdscript
+	url = https://github.com/GodotDocMobile/highlightjs-gdscript.git
