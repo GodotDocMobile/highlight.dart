@@ -9,7 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  highlight: ^0.7.0
+  highlight: 
+    git:
+    url: https://github.com/GodotDocMobile/highlight.dart.git
+    path: highlight
+    ref: generate-gdscript
 
 dev_dependencies:
   flutter_test:
